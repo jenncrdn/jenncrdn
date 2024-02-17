@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenncrdn" alt="jenncrdn" /></a> </p>
 
-- 🔭 I’m currently working on **BloomTech's Backend Developer Program**
+- 🔭 I’ve recently completed **BloomTech's Backend Developer Program**
 
-- 🌱 I’m currently learning **AWS Lambda ~ DynamoDB ~ Dagger**
+- 🌱 I’m currently learning **AWS Lambda ~ DynamoDB ~ Python**
 
 - 👯 I’m looking to collaborate on **new projects**
 
