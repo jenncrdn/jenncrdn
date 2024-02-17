@@ -5,7 +5,7 @@
 
 - 🔭 I’ve recently completed **BloomTech's Backend Developer Program**
 
-- 🌱 I’m currently learning **AWS Lambda ~ DynamoDB ~ Python**
+- 🌱 I’m currently learning **JavaScript ~ SwiftUI ~ Python**
 
 - 👯 I’m looking to collaborate on **new projects**
 
