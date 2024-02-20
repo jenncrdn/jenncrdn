@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rK5T2UT_xv7cn_wDehhE3RXfta7h9biI5Q32lQA5t7g/edit?usp=sharing](https://docs.google.com/document/d/1rK5T2UT_xv7cn_wDehhE3RXfta7h9biI5Q32lQA5t7g/edit?usp=sharing)
-
 - ⚡ Fun fact **I'm currently working to build my first iphone app for my Dinner Designer.**
 
 <h3 align="left">Connect with me:</h3>
