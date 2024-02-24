@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **new projects**
 
-- ⚡ Fun fact **I'm currently working to build my first iphone app for my Dinner Designer.**
+- ⚡ Fun fact **I'm currently working to build my first iOS app for my Dinner Designer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
